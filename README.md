@@ -27,6 +27,9 @@ Next we're going to dig into factorials, and how they can be used to calculate v
 
 We're then going to examine the difference between permutations and combinations we'll get some practice calculating combinations for everything from drawing letters from a bag to creating soccer teams for a tournament!
 
+## Bernoulli and Binomial Distributions
+
+Finally, we're going to look at Bernoulli experiment and how the probabilities related to a series of independent Bernoulli events can be expressed using a Binomial distribution.
 
 
 ## Summary
