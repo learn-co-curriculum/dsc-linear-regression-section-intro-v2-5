@@ -2,7 +2,7 @@
 # Introduction
 
 ## Introduction
-This lesson summarizes the topics we'll be covering in section 10 and why they'll be important to you as a data scientist.
+This lesson summarizes the topics we'll be covering in section 8 and why they'll be important to you as a data scientist.
 
 ## Objectives
 You will be able to:
@@ -11,7 +11,7 @@ You will be able to:
 
 ## Linear Regression
 
-In this section we're going to introduce our first machine learning model - linear regression. It's really just a fancy way of saying "(straight) line of best fit", but it will introduce a number of concepts that will be important as we continue to explore more sophisticated models in modules 2 and 3.
+In this section we're going to introduce our first machine learning model - linear regression. It's really just a fancy way of saying "(straight) line of best fit", but it will introduce a number of concepts that will be important as we continue to explore more sophisticated models in modules 3 and 4.
 
 ## Covariance and Correlation
 
@@ -33,8 +33,6 @@ We're then gong to introduce the idea of "R squared" as the coefficient of deter
 ## A Complete Regression
 
 From there we look at calculating a complete linear regression, just using code, cover some of the assumptions that must be held for a "least squares regression", introduce Ordinary Least Squares in Statsmodel and introduce some tools for diagnosing your linear regression such as Q-Q plots, the Jarque-Bera test for normal distribution of residuals and the Goldfield-Quandt test for heteroscedasticity. We then look at interpretation of significance and p-value and finish up by doing a regression model of the Boston Housing data set.
-
-
 
 
 ## Summary
