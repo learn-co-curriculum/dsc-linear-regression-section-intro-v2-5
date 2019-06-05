@@ -15,7 +15,7 @@ In this section we're going to introduce our first machine learning model - line
 
 ## Covariance and Correlation
 
-We start the section by covering covarisnce and correlation, both of which relate to how likely two variables are to change together. For example, with houses, it wouldn't be too surprising if the number of rooms and the price of a house were correlated (in general, more rooms == more expensive).
+We start the section by covering covariance and correlation, both of which relate to how likely two variables are to change together. For example, with houses, it wouldn't be too surprising if the number of rooms and the price of a house were correlated (in general, more rooms == more expensive).
 
 ## Statistical Learning Theory
 
