@@ -2,7 +2,7 @@
 # Introduction
 
 ## Introduction
-This lesson summarizes the topics we'll be covering in section 8 and why they'll be important to you as a data scientist.
+In this section, you're going to learn about one of the most basic machine learning models, linear regression! Many of the ideas you learn in this section will be the foundational knowledge of more complex machine learning models.
 
 ## Objectives
 You will be able to:
