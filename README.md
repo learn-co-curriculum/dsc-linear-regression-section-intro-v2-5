@@ -11,7 +11,7 @@ You will be able to:
 
 ## Linear Regression
 
-In this section we're going to introduce our first machine learning model - linear regression. It's really just a fancy way of saying "(straight) line of best fit", but it will introduce a number of concepts that will be important as we continue to explore more sophisticated models in modules 3 and 4.
+In this section we're going to introduce our first machine learning model - linear regression. It's really just a fancy way of saying "(straight) line of best fit", but it will introduce a number of concepts that will be important as you continue to learn about more sophisticated models.
 
 ## Covariance and Correlation
 
