@@ -11,11 +11,11 @@ You will be able to:
 
 ## Linear Regression
 
-In this section we're going to introduce our first machine learning model - linear regression. It's really just a fancy way of saying "(straight) line of best fit", but it will introduce a number of concepts that will be important as you continue to learn about more sophisticated models.
+In this section, we're going to introduce our first machine learning model - linear regression. It's really just a fancy way of saying "(straight) line of best fit", but it will introduce a number of concepts that will be important as you continue to learn about more sophisticated models.
 
 ## Covariance and Correlation
 
-We start the section by covering covariance and correlation, both of which relate to how likely two variables are to change together. For example, with houses, it wouldn't be too surprising if the number of rooms and the price of a house were correlated (in general, more rooms == more expensive).
+We start the section by covering covariance and correlation, both of which relate to how likely two variables are to change together. For example, with houses, it wouldn't be too surprising if the number of rooms and the price of a house was correlated (in general, more rooms == more expensive).
 
 ## Statistical Learning Theory
 
@@ -32,7 +32,7 @@ We're then going to introduce the idea of "R squared" as the coefficient of dete
 
 ## A Complete Regression
 
-From there we look at calculating a complete linear regression, just using code, cover some of the assumptions that must be held for a "least squares regression", introduce Ordinary Least Squares in Statsmodels and introduce some tools for diagnosing your linear regression such as Q-Q plots, the Jarque-Bera test for normal distribution of residuals and the Goldfield-Quandt test for heteroscedasticity. We then look at interpretation of significance and p-value and finish up by doing a regression model of the Boston Housing data set.
+From there we look at calculating a complete linear regression, just using code, cover some of the assumptions that must be held for a "least squares regression", introduce Ordinary Least Squares in Statsmodels and introduce some tools for diagnosing your linear regression such as Q-Q plots, the Jarque-Bera test for normal distribution of residuals and the Goldfield-Quandt test for heteroscedasticity. We then look at the interpretation of significance and p-value and finish up by doing a regression model of the Boston Housing data set.
 
 
 ## Summary
