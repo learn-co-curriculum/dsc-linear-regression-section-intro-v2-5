@@ -4,13 +4,9 @@
 ## Introduction
 In this section, you're going to learn about one of the most basic machine learning models, linear regression! Many of the ideas you learn in this section will be foundational knowledge for more complex machine learning models.
 
-## Covariance and Correlation
-
-We start the section by covering covariance and correlation, both of which relate to how likely two variables are to change together. For example, with houses, it wouldn't be too surprising if the number of rooms and the price of a house was correlated (in general, more rooms == more expensive).
-
 ## Statistical Learning Theory
 
-We then explore statistical learning theory and how dependent and independent variables relate to it. Statistical Learning Theory provides an important framework for understanding machine learning.
+We'll start this section by exploring Statistical Learning Theory and how dependent and independent variables relate to it. Statistical Learning Theory provides an important framework for understanding machine learning.
 
 ## Linear Regression
 
